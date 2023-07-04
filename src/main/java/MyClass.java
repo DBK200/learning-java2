@@ -3,6 +3,7 @@ public class MyClass {
         System.out.println("wefwef");
         System.out.println("modiefied locally");
         System.out.println("modiefied locally");
+     System.out.println("modified on main");
 
     }
 }
